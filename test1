@@ -1,3 +1,3 @@
-function secondFunction(){
-  return null;
+function secondFunction(test){
+  return test;
 }
